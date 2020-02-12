@@ -449,5 +449,36 @@
     "photo": "/static/team/hala.jpg",
     "linkedin": "https://www.linkedin.com/in/hala-qasim-009451155/",
     "skills": ["JS", "MySQL", "React", "HTML", "CSS", "Node.js"]
+  },
+  {
+    "id": 30,
+    "roles": ["alumni"],
+    "name": "Mohammad Reza Mohseni",
+    "email": "mohseni.mr93@gmail.com",
+    "photo": "/static/alumni/photos/mohseni.png",
+    "github": "https://github.com/mo3ni",    
+    "pdfCV": "/static/alumni/cv/MohammadResume.pdf",
+    "linkedin": "https://www.linkedin.com/in/mo3ni",
+    "skills": [
+      "HTML",
+      "Css",
+      "JS",
+      "Express.js",
+      "Git",
+      "Heroku",
+      "Knex.js",
+      "MySQL",
+      "Node.js",
+      "React",
+      "Dart(flutter)",
+      "REST API",
+      "UML",
+      "Swagger",
+      "Firebase",
+      "XML",
+      "TS"     
+    ],
+    "status": "Looking for jobs",
+    "graduationDate": "29-01-2020"
   }
 ]
